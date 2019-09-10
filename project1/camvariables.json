@@ -30,6 +30,10 @@
     {
       "name": "vsphere_virtual_machine_networks",
       "label": "vsphere_virtual_machine Networks"
+    },
+    {
+      "name": "vsphere_virtual_disk_storage",
+      "label": "vsphere_virtual_disk Storage"
     }
   ],
   "output_groups": [ ],

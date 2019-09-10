@@ -90,3 +90,4 @@ resource "vsphere_virtual_machine" "db_server" {
     size = "${var.db_server_disk_size}"
   }
 }
+
